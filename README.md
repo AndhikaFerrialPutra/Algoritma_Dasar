@@ -1,1 +1,1 @@
-# Alogoritma_Dasar
+# Algoritma_Dasar
